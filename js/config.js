@@ -5,8 +5,8 @@
 
 // API URLs - Basic configuration
 const API_URL = {
-    SEARCH: 'https://api.siputzx.my.id/api/s/soundcloud',
-    DOWNLOAD_MP3: 'https://api.siputzx.my.id/api/d/soundcloud'
+    SEARCH: 'https://api.siputzx.my.id/api/s/youtube',
+    DOWNLOAD_MP3: 'https://api.siputzx.my.id/api/d/ytpost'
 };
 
 // App defaults
